@@ -1,17 +1,17 @@
 "# BitMap---University-Project" 
+# Bitmap Manipulation Tool
+This project is a Bitmap Manipulation Tool developed in C++. It allows users to perform various operations on bitmap (.bmp) files, such as loading, modifying, and saving images with different filters and transformations.
 
-<h1>General Info</h1>
+## Features
+- Load and display BMP images.
+- Apply basic image transformations/filters.
+  - Inversion
+  - Erosion
+  - Dilatation
+  - Reset
+  - Averaging
 
-
-The main goal of the project was to create a program enabling the creation of bitmaps in text and graphic mode.
-<br><br>We can use the following filters:
-<ul>
-<li>Inversion</li>
-<li>Erosion</li>
-<li>Dilatation</li>
-<li>Reset</li>
-<li>Averaging</li>
-</ul>
-
-Opening in graphic mode requires any type of program handling ppm files (e.g. Gimp)
-
+## Getting Started
+### Prerequisites
+1. To run this project, you'll need:
+- C++ compiler (e.g., GCC, Clang)
