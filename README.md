@@ -1,4 +1,3 @@
-"# BitMap---University-Project" 
 # Bitmap Manipulation Tool
 This project is a Bitmap Manipulation Tool developed in C++. It allows users to perform various operations on bitmap (.bmp) files, such as loading, modifying, and saving images with different filters and transformations.
 
